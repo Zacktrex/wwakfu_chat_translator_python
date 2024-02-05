@@ -1,5 +1,5 @@
 # wakfu_chat_translator_python
-wakfu_chat_translator_python
+wakfu_chat_translator_python : Bored in wakfu , can not play with others becoz of language . this python script will solve your problem translate any language for unlimited.
 # you will need python installed
 -
 # you will need textblob lib.
