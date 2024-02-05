@@ -13,3 +13,5 @@ inputLangCode ='es'
 outputLangCode ="en"
 # add more chat channels 
 chatSelected = ["Vicinity", "Recruitment", "Group","Guild", "Private"] 
+## run this script open cmd or terminal on script file folder and run:
+python wakfu_chat_translater.py
